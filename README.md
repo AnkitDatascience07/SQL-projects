@@ -1,1 +1,3 @@
-# SQL-projects-
+# SQL-projects
+
+## Zomato Sales Analysis Project 
