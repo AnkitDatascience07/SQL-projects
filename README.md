@@ -16,4 +16,4 @@
 
 
 
-Note: I am currently experiencing technical difficulties that prevent me from uploading my SQL projects.
+Note: I am currently experiencing technical difficulties that prevent me from uploading my SQL projects but i will upload all of my projects very soon.
